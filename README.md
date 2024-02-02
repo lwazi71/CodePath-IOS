@@ -1,4 +1,4 @@
-# Prework - *Lwazi-CodePatho*
+# Prework - *Lwazi-CodePath*
 
 Submitted by: **Lwazi Mabota**
 
