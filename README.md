@@ -18,24 +18,25 @@ The following **required** functionality is completed:
 
 ## App Brainstorming (Step 4)
 1. Slack
-1. Great readability
-2. Ease of access between switching channels
-3. Clean UI and UX
+ 1. Great readability
+ 2. Ease of access between switching channels
+ 3. Clean UI and UX
 
 2. Strong
-1. Amazing colors and UI
-2. Simple templates for workouts
-3. Tracks past workouts 
+ 1. Amazing colors and UI
+ 2. Simple templates for workouts
+ 3. Tracks past workouts 
 
 3. Discord
-1. Shows users typing
-2. VC feature is great to connect with others
-3. Allows for multiple chats
+ 1. Shows users typing
+ 2. VC feature is great to connect with others
+ 3. Allows for multiple chats
 
 4. Whatsapp
-1. Communication between people around the world
-2. Can text with different phone types, and devices
-3. Changeable wallpapers
+ 1. Communication between people around the world
+ 2. Can text with different phone types, and devices
+ 3. Changeable wallpapers
+ 4. 
 ## App Idea:
   I want to create an app that syncs calorie tracking, workouts, and gym habits all into one. 
   Most fitness apps are separated in that regard, most don't have all of what takes to build a great body into one.
