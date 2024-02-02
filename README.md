@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
-[https://www.loom.com/share/9d35485c05a147cf93e54e6b3b68cf22?sid=0a4cfbaa-a317-4c46-a60c-77f5d3fc21b5]]() .
+[Link](https://www.loom.com/share/9d35485c05a147cf93e54e6b3b68cf22?sid=0a4cfbaa-a317-4c46-a60c-77f5d3fc21b5]) .
 
 ## App Brainstorming (Step 4)
 1. Slack
