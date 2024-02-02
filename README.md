@@ -29,12 +29,12 @@ The following **required** functionality is completed:
 
  Discord
  1. Shows users typing
- 2. VC feature is great to connect with others
+ 2. The VC feature is great for connecting with others
  3. Allows for multiple chats
 
   Whatsapp
  1. Communication between people around the world
- 2. Can text with different phone types, and devices
+ 2. Can text with different phone types and devices
  3. Changeable wallpapers
   
 ## App Idea:
