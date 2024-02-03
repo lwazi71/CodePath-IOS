@@ -56,9 +56,9 @@ The following **required** functionality is completed:
 ## Notes
 
 Describe any challenges encountered while building the app.
-Manuevring through the Xcode application itself. 
-Showing the storyboard and navifating through Xcode
 
+1. Manuevring through the Xcode application itself.
+2. Finding the storyboard and the toolbar within Xcode.
 ## License
 
     Copyright [2024] [name of copyright owner]
